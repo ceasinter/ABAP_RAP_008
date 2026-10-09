@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DCLS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DCLS>
+    <DCLNAME>ZC_RAP008_ATRAVEL</DCLNAME>
+    <DCL_TYPE>ROLE</DCL_TYPE>
+    <MASTERLANG>S</MASTERLANG>
+    <LANGUAGE>S</LANGUAGE>
+    <SHORT_TEXT>Controles de acceso para ZC_RAP008_ATRAVEL</SHORT_TEXT>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+   </DCLS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SRVD" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SRVD>
+    <NAME>ZUI_RAP008_ATRAVEL_O4</NAME>
+    <TYPE>SRVD/SRV</TYPE>
+    <DESCRIPTION>Definición de servicio para ZC_RAP008_ATRAVEL</DESCRIPTION>
+    <LANGUAGE>ES</LANGUAGE>
+    <MASTER_LANGUAGE>ES</MASTER_LANGUAGE>
+    <SOURCE_URI>./zui_rap008_atravel_o4/source/main</SOURCE_URI>
+    <SOURCE_TYPE>ABAP_SOURCE</SOURCE_TYPE>
+    <SOURCE_ORIGIN_DESCRIPTION>Herramientas de desarrollo ABAP</SOURCE_ORIGIN_DESCRIPTION>
+    <SRVD_SOURCE_TYPE>S</SRVD_SOURCE_TYPE>
+    <SRVD_SOURCE_TYPE_DESC>Definition</SRVD_SOURCE_TYPE_DESC>
+   </SRVD>
+  </asx:values>
+ </asx:abap>
+</abapGit>

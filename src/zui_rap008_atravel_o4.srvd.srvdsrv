@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Definición de servicio para ZC_RAP008_ATRAVEL'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZC_RAP008_ATRAVEL'
+  }
+}
+define service ZUI_RAP008_ATRAVEL_O4 provider contracts odata_v4_ui {
+  expose ZC_RAP008_ATRAVEL as Travel;
+}
